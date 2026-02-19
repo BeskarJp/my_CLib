@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2025
+** EPITECH PROJECT, 2026
 ** my_compute_power_rec
 ** File description:
 ** Number with any power in it

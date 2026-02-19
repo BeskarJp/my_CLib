@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2025
+** EPITECH PROJECT, 2026
 ** my_put_pointer.c
 ** File description:
 ** display pointer in hexa

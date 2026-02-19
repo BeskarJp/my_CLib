@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2025
+** EPITECH PROJECT, 2026
 ** my_str_isalpha
 ** File description:
 ** my_str_isalpha

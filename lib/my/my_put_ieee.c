@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2025
+** EPITECH PROJECT, 2026
 ** my_put_ieee.c
 ** File description:
 ** print double -> ieee

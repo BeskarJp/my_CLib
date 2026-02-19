@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2025
+** EPITECH PROJECT, 2026
 ** my_put_nbr.c
 ** File description:
 ** my_put_nbr
